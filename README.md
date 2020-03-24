@@ -20,3 +20,10 @@ Installation Step :
 
 6) bash t-ban.sh
 
+
+
+Uninstallation Step : (Remove Logo From Termux)
+
+1) bash remove.sh
+
+2) Done !!!
