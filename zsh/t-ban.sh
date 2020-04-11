@@ -9,12 +9,12 @@
 clear
 figlet -f big Termux Banner | lolcat
 cyan='\e[0;36m'
-lightgreen='\e[1;32m'
-red='\e[1;31m'
-yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
+lightred='\e[1;32m'
+green='\e[1;31m'
+orange='\e[1;33m'
+echo -e $lightblue "\e[1m                Security Help For Ethical Hackers... "
 echo " "
-echo -e $yellow "\e[1m                         -Sutariya Parixit "
+echo -e $orange "\e[1m                         -Sutariya Parixit "
 echo " "
 echo " "
 echo " "
