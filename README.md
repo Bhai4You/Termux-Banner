@@ -27,3 +27,8 @@ Uninstallation Step : (Remove Logo From Termux)
 1) bash remove.sh
 
 2) Done !!!
+
+<br><br>
+PIP Installation (Easy Step) (Evil-Eye 2.0)
+<br>
+https://pypi.org/project/termux-banner
