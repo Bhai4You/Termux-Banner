@@ -3,10 +3,10 @@
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/Bhai4You/Edris-Banner
 
 
-2) cd Termux-Banner
+2) cd Edris-Banner
 
 
 3) chmod +x requirement.sh
