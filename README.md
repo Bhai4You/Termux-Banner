@@ -32,3 +32,12 @@ Uninstallation Step : (Remove Logo From Termux)
 PIP Installation (Easy Step) (Evil-Eye 2.0)
 <br>
 https://pypi.org/project/termux-banner
+
+
+## Tutorial
+<p>
+  <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
+  </p>
+
+
+
