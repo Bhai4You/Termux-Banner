@@ -1,7 +1,7 @@
 # Termux Banner
 #Script by Parixit Sutariya
 
-Installation Step :
+## Installation :
 
 1) git clone https://github.com/Bhai4You/Termux-Banner
 
@@ -22,19 +22,14 @@ Installation Step :
 
 
 
-Uninstallation Step : (Remove Logo From Termux)
+## Remove Logo :
 
 1) bash remove.sh
 
 2) Done !!!
 
-<br><br>
-PIP Installation (Easy Step) (Evil-Eye 2.0)
-<br>
-https://pypi.org/project/termux-banner
 
-
-## Tutorial
+## Tutorial :
 <p>
   <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
   </p>
