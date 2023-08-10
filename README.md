@@ -35,7 +35,28 @@
   </p>
 
 
-## Download App
+## Vehicle Osint App [Promo]
+
+<pre>
+  Note :
+  - Only for Indian Vehicle Search
+  
+  Features :
+  - Cool UI
+  - Owner's Information
+  - Vehicle Information
+  - Permit Details
+  - Insurance Information
+  - Puc Details
+  - Easy to use
+  - and much more..
+
+  Download :
+  - click on below image..
+
+  <center><a href="https://play.google.com/store/apps/details?id=com.jivani.vehicleosint"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/Vehicle%20Osint%20App.png" alt="Vehicle Osint" width="800" ></a></center>
+  
+</pre>
 <br>
-  <a href="https://bit.ly/termuxdetective"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_detective.gif" alt="Termux Detective" width="900" height="60"></a>
+  
   <br>
