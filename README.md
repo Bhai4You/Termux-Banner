@@ -3,8 +3,8 @@
 
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38934.jpg" width="500" height="350" />
-  <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38935.jpg" width="500" height="350" /> 
+  <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38934.jpg" width="400" height="300" />
+  <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38935.jpg" width="400" height="300" /> 
 </p>
 
 ## Easy Installation :
