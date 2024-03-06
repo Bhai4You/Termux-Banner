@@ -31,29 +31,22 @@
   </p>
 
 
-## Vehicle Osint App [Promo]
-
-<pre>
-  Note :
-  - Only for Indian Vehicle Search
-  
+## Termux Tutorials & Learn Cybersecurity
+<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
+<pre> 
   Features :
   - Cool UI
-  - Owner's Information
-  - Vehicle Information
-  - Permit Details
-  - Insurance Information
-  - Puc Details
-  - Easy to use
+  - Author Info
+  - 100+ Working Termux Tools
+  - Install any tool with single commands !
   - and much more..
 
-  Download :
-  - click on below image..
+  Visit our site :
+  - click on above image or <a href="https://bhai4you.com">bhai4you.com</a> here.
 
-  <center><a href="https://play.google.com/store/apps/details?id=com.jivani.vehicleosint"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/Vehicle%20Osint%20App.png" alt="Vehicle Osint" width="800" ></a></center>
+  
   
 </pre>
-
 
 
 ## Contribution :
