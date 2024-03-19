@@ -9,12 +9,9 @@
 
 ## Easy Installation :
 
+paste below command in termux for install termux banner.
 <pre>
-  Follow below command step by step...
-  
-  1) pkg install python -y
-  2) pip install termux-banner
-  3) banner
+  pkg install python -y && pip install termux-banner && banner
 </pre>
 
 ## How to Remove ? :
