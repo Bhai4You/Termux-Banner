@@ -34,36 +34,21 @@ just type remove command in termux for restore old termux theme.
   <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
   </p>
 
-## Termux Ninja App
-<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxninja"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_ninja_banner.png" alt="Termux Ninja"  ></a></center>
+## Termux Toolbox App
+<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxtoolbox"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_toolbox_banner2.jpg" alt="Termux Toolbox"  ></a></center>
 <pre> 
   Features :
   - Cool UI
   - Category Wise Tools
-  - 100+ Working Termux Tools
-  - Install any tool with single commands !
-  - Linux Commands
-  - Termux Basic Guide
+  - Quick Linux Commands
+  - Basic to Advance Guide
+  - Powerful Termux Quiz
+  - AI Script Maker - Mr.Robot AI
+  - Programming Tutorials with Termux (included all language)
+  - 200+ Working Termux Tools
+  - Install any tool in termux with single commands.
   - and much more..
 </pre>
-
-## Termux Tutorials & Learn Cybersecurity
-<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
-<pre> 
-  Features :
-  - Cool UI
-  - Author Info
-  - 100+ Working Termux Tools
-  - Install any tool with single commands !
-  - and much more..
-
-  Visit our site :
-  - click on above image or <a href="https://bhai4you.com">bhai4you.com</a> here.
-
-  
-  
-</pre>
-
 
 ## Contribution :
 <pre>
